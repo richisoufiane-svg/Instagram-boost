@@ -82,5 +82,5 @@ if st.session_state["last_generated"]:
 st.divider()
 
 # --- SECTION 3 : CONSEILS TECHNIQUES ---
-st.subheader("⚙
+st.subheader("⚙")
 
